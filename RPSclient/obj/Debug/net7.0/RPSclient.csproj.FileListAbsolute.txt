@@ -1,0 +1,15 @@
+/home/rail_hail/Downloads/RPSclient/bin/Debug/net7.0/RPSclient
+/home/rail_hail/Downloads/RPSclient/bin/Debug/net7.0/RPSclient.deps.json
+/home/rail_hail/Downloads/RPSclient/bin/Debug/net7.0/RPSclient.runtimeconfig.json
+/home/rail_hail/Downloads/RPSclient/bin/Debug/net7.0/RPSclient.dll
+/home/rail_hail/Downloads/RPSclient/bin/Debug/net7.0/RPSclient.pdb
+/home/rail_hail/Downloads/RPSclient/obj/Debug/net7.0/RPSclient.csproj.AssemblyReference.cache
+/home/rail_hail/Downloads/RPSclient/obj/Debug/net7.0/RPSclient.GeneratedMSBuildEditorConfig.editorconfig
+/home/rail_hail/Downloads/RPSclient/obj/Debug/net7.0/RPSclient.AssemblyInfoInputs.cache
+/home/rail_hail/Downloads/RPSclient/obj/Debug/net7.0/RPSclient.AssemblyInfo.cs
+/home/rail_hail/Downloads/RPSclient/obj/Debug/net7.0/RPSclient.csproj.CoreCompileInputs.cache
+/home/rail_hail/Downloads/RPSclient/obj/Debug/net7.0/RPSclient.dll
+/home/rail_hail/Downloads/RPSclient/obj/Debug/net7.0/refint/RPSclient.dll
+/home/rail_hail/Downloads/RPSclient/obj/Debug/net7.0/RPSclient.pdb
+/home/rail_hail/Downloads/RPSclient/obj/Debug/net7.0/RPSclient.genruntimeconfig.cache
+/home/rail_hail/Downloads/RPSclient/obj/Debug/net7.0/ref/RPSclient.dll

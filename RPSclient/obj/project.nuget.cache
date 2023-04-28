@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6E/WJEh8hPZjvnS3KgSKmqUVF0DL5+nIpDDLUPXcujigEj2gQohIY/YsDFySrLLd6R0tEPN/zNDkAPALk9gwLw==",
+  "success": true,
+  "projectFilePath": "/home/rail_hail/Downloads/RPSclient/RPSclient.csproj",
+  "expectedPackageFiles": [
+    "/home/rail_hail/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
